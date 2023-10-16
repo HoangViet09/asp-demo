@@ -1,0 +1,28 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+.container {
+    height: 100vh !important;
+}
+
+.footer {
+    height: fit-content;
+}
+
+.validation-summary-errors > ul > li {
+    Color: #ff0000;
+    list-style-type: none;
+}
