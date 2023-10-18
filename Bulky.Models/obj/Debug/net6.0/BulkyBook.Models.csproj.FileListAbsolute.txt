@@ -1,0 +1,11 @@
+D:\Source_H2A\C#\dotnetCore-demo\Bulky.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+D:\Source_H2A\C#\dotnetCore-demo\Bulky.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+D:\Source_H2A\C#\dotnetCore-demo\Bulky.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+D:\Source_H2A\C#\dotnetCore-demo\Bulky.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source_H2A\C#\dotnetCore-demo\Bulky.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+D:\Source_H2A\C#\dotnetCore-demo\Bulky.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+D:\Source_H2A\C#\dotnetCore-demo\Bulky.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+D:\Source_H2A\C#\dotnetCore-demo\Bulky.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+D:\Source_H2A\C#\dotnetCore-demo\Bulky.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+D:\Source_H2A\C#\dotnetCore-demo\Bulky.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+D:\Source_H2A\C#\dotnetCore-demo\Bulky.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll

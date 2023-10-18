@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dotnetCoreRazor-demo.props" />
+</Project>
